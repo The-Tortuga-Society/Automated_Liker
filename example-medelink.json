@@ -74,7 +74,7 @@
   {
     "url": "https://pontifex.substack.com/p/master-morality-and-slave-morality",
     "like": "TRUE",
-    "restack": "FALSE",
+    "restack": "TRUE",
     "likenote": "FALSE"
   },
   {
@@ -93,6 +93,12 @@
     "url": "https://maximumdrive.substack.com/p/on-the-natural-conclusion-of-an-idea",
     "like": "TRUE",
     "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://backcountrypsych.substack.com/p/phenomenology-of-hunting-a-cure-for",
+    "like": "TRUE",
+    "restack": "TRUE",
     "likenote": "FALSE"
   }
 
