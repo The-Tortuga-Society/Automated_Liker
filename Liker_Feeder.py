@@ -20,9 +20,9 @@ from collections import defaultdict, OrderedDict
 
 
 # Replace these with your actual API credentials from my.telegram.org
-api_id = 20295084  # Your API ID
-api_hash = '813bec638b5d2805d08a6e2651733234'  # Your API Hash
-channel_name = "The Medelink Cartel"  # Name of the channel
+api_id = xxxxxxx  # Your API ID
+api_hash = 'xxxxxxxxxxxxxx'  # Your API Hash
+channel_name = "xxxxxxxxxxx"  # Name of the channel
 
 
 async def test_telethon():
