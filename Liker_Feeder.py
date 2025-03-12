@@ -3,7 +3,7 @@
 """
 Created on Tue Mar  4 14:47:10 2025
 
-@author: wln
+@author: Tom Swift
 """
 
 #This program collects  messages from a Telegram channel, determines whether they have links to Substack posts, 
