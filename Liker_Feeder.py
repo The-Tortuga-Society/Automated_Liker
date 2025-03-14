@@ -1,9 +1,8 @@
-#!/usr/bin/env python3
+#!/usr/b
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar  4 14:47:10 2025
-
-@author: wln
+Created on Tue Mar  4 14:47:10 2
+#This program collects  messages from a Telegram channel, determines whether they have links to Substack pf so, appends links to said posts with information
 """
 
 #This program collects  messages from a Telegram channel, determines whether they have links to Substack posts, 
@@ -62,7 +61,7 @@ async def test_telethon():
                     elif message.reply_to_msg_id == 5:
                         message_data['restack'] = "TRUE"
                     elif message.reply_to_msg_id == 186:
-                        message_data['likenote'] == "TRUE"
+                        message_data['likenote'] = "TRUE"
                     messages_list.append(message_data)
 
 
