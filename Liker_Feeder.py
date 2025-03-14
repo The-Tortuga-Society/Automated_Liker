@@ -46,7 +46,7 @@ async def test_telethon():
                 if message.text and re.search(r"^(https?:\/\/)?([\w.-]+)(\.substack\.com|\.com|\.net|\.org|\.io)?\/p\/([\w-]+)\/?$", message.text):
                     url_match = re.search(r"^(https?:\/\/)?([\w.-]+)(\.substack\.com|\.com|\.net|\.org|\.io)?\/p\/([\w-]+)\/?$", message.text)
                     url = url_match.group(0) if url_match else None
-                    print(message.reply_to_msg_id)
+                    
                     
                     #Each post is stored as a json object
                     # 2 corresponds to like, 5 to restack, and 186 to likenote
