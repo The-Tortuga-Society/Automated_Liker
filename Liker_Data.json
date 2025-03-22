@@ -6,10 +6,10 @@
     "likenote": "TRUE"
   },
   {
-    "url": null,
+    "url": "https://www.professoraxelrod.com/p/trolley-problems-and-the-kobayashi",
     "like": "TRUE",
-    "restack": "TRUE",
-    "likenote": "TRUE"
+    "restack": "FALSE",
+    "likenote": "FALSE"
   },
   {
     "url": "https://inkyaustralian.substack.com/p/a-brief-online-history-of-joel-davis",
@@ -25,7 +25,19 @@
   },
   {
     "url": "https://undergrounddesigns.substack.com/p/get-in-the-airship",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/profile/200997205-walt-bismarck/note/c-101804393",
     "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
+    "url": "https://www.culturalfuturist.net/p/culture-and-couture-brief-4-layla",
+    "like": "TRUE",
     "restack": "FALSE",
     "likenote": "FALSE"
   },
@@ -40,6 +52,18 @@
     "like": "FALSE",
     "restack": "FALSE",
     "likenote": "TRUE"
+  },
+  {
+    "url": "https://www.waltbismarck.com/p/my-lunch-with-worst-boyfriend-ever",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/home/post/p-158998987",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
   },
   {
     "url": "https://blissproductions.substack.com/p/the-anti-humanist-manifesto",
@@ -64,6 +88,18 @@
     "like": "FALSE",
     "restack": "FALSE",
     "likenote": "TRUE"
+  },
+  {
+    "url": "https://undergrounddesigns.substack.com/p/electric-funeral",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://www.waltbismarck.com/p/the-dragon-con-chapter-i",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
   },
   {
     "url": "https://sternshiplog.substack.com/p/threats-of-violence-and-escalation",
@@ -96,10 +132,52 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://drmonzo.substack.com/p/im-too-esoteric-and-based-for-trump",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://www.waltbismarck.com/p/stop-being-mean-to-rakish-men",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://booksandnotes.substack.com/p/book-review-paul-halmos-naive-set",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://substack.com/@drmonzo/notes/c-101451794",
     "like": "FALSE",
     "restack": "FALSE",
     "likenote": "TRUE"
+  },
+  {
+    "url": "https://libertyplus.substack.com/p/neighbortarianism",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://open.substack.com/pub/undergrounddesigns/p/slop",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://pontifex.substack.com/p/defence-spending-is-cheaper-than",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/home/post/p-159128318",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
   },
   {
     "url": "https://agenticliving.substack.com/p/inside-svetskis-samurai-revolution",
@@ -120,10 +198,34 @@
     "likenote": "TRUE"
   },
   {
+    "url": "https://sternshiplog.substack.com/p/the-day-the-quillette-girls-had-a",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://simonlaird.substack.com/p/simon-laird-and-charles-amos-endorse",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://metacognitiveschema.substack.com/p/insights-on-cognition",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://substack.com/@blissproductions/notes/c-100857936",
     "like": "FALSE",
     "restack": "FALSE",
     "likenote": "TRUE"
+  },
+  {
+    "url": "https://booksandnotes.substack.com/p/book-review-gregory-makiw-principles",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
   },
   {
     "url": "https://substack.com/@dogandponyshow/notes/c-100789463",
@@ -132,10 +234,40 @@
     "likenote": "TRUE"
   },
   {
+    "url": "https://libertyplus.substack.com/p/contra-third-positionism-national",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/home/post/p-159067203",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://bradalonius.substack.com/p/bobbinsville-003-this-is-financial",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://ancientproblemz.substack.com/p/violence-begets-violence-w-the-stern",
     "like": "TRUE",
     "restack": "TRUE",
     "likenote": "FALSE"
+  },
+  {
+    "url": "https://www.professoraxelrod.com/p/eat-the-rich",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/profile/16148027-simon-laird/note/c-100528989",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
   },
   {
     "url": "https://simonlaird.substack.com/p/wild-animal-suffering-debunks-utilitarianism",
@@ -168,6 +300,24 @@
     "likenote": "TRUE"
   },
   {
+    "url": "https://simonlaird.substack.com/p/simon-laird-epicly-owns-peter-brookes",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://libertyplus.substack.com/p/contra-third-positionism-immigration",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://drmonzo.substack.com/p/severance-infinite-jest-and-compulsory",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://substack.com/@centaurwritesatyr/notes/c-100137294",
     "like": "FALSE",
     "restack": "TRUE",
@@ -188,7 +338,7 @@
   {
     "url": "https://astralflight.substack.com/p/gamergate-pt-1-historical-contextit",
     "like": "FALSE",
-    "restack": "FALSE",
+    "restack": "TRUE",
     "likenote": "FALSE"
   },
   {
@@ -198,9 +348,57 @@
     "likenote": "TRUE"
   },
   {
+    "url": "https://www.professoraxelrod.com/p/badger-badger-badger",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://drmonzo.substack.com/p/how-we-win-anon",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://undergrounddesigns.substack.com/p/win-underground-designs-btc",
     "like": "TRUE",
     "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://cb.substack.com/p/secrets-of-the-substack-algorithm",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/profile/16148027-simon-laird/note/c-99824061",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
+    "url": "https://www.waltbismarck.com/p/something-that-needs-to-be-said",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://simonlaird.substack.com/p/the-substack-centrists-dont-understand",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/@nof11/note/c-99528656",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
+    "url": "https://pontifex.substack.com/p/links-43-crime-and-migration-edition",
+    "like": "TRUE",
+    "restack": "TRUE",
     "likenote": "FALSE"
   },
   {
@@ -222,6 +420,12 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://swiftenterprises.substack.com/p/the-gentleman-scientist",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://undergrounddesigns.substack.com/p/how-to-become-radicalized-online",
     "like": "TRUE",
     "restack": "FALSE",
@@ -234,10 +438,34 @@
     "likenote": "TRUE"
   },
   {
+    "url": "https://www.waltbismarck.com/p/hit-the-target",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://sternshiplog.substack.com/p/closeted-prots-on-pingas",
     "like": "TRUE",
     "restack": "TRUE",
     "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/profile/42656795-n-of-1/note/c-99528656",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
+    "url": "https://www.waltbismarck.com/p/deepleftanalysis-jews-race-realism",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/@nof11/note/c-99472816",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
   },
   {
     "url": "https://dogandponyshow.substack.com/p/the-aping-american-taylors-version",
@@ -249,6 +477,12 @@
     "url": "https://voyagerslog.substack.com/p/family-a-debt-worth-keeping",
     "like": "TRUE",
     "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://www.waltbismarck.com/p/liberty-vs-fascism-restrictive-covenants",
+    "like": "TRUE",
+    "restack": "TRUE",
     "likenote": "FALSE"
   },
   {
@@ -276,6 +510,30 @@
     "likenote": "TRUE"
   },
   {
+    "url": "https://alwaysthehorizon.substack.com/p/neo-monarchy-a-blueprint-for-liberty",
+    "like": "FALSE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/home/post/p-149211606",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://pontifex.substack.com/p/two-tier-justice-in-britain",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://libertyplus.substack.com/p/why-collectivism-really-is-bad",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://undergrounddesigns.substack.com/p/the-last-ancestor",
     "like": "TRUE",
     "restack": "FALSE",
@@ -300,9 +558,27 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://www.professoraxelrod.com/p/iran-is-the-tipping-point",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://dogandponyshow.substack.com/p/dissent11fishtank-bloodsport-and",
     "like": "TRUE",
     "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://booksandnotes.substack.com/p/paul-halmos-naive-set-theory-2ed",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://simonlaird.substack.com/p/why-you-should-be-an-anti-trans-extremist",
+    "like": "TRUE",
+    "restack": "FALSE",
     "likenote": "FALSE"
   },
   {
@@ -318,6 +594,12 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://libertyplus.substack.com/p/contra-third-positionism",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://substack.com/@agenticliving/notes/c-98717517",
     "like": "FALSE",
     "restack": "FALSE",
@@ -325,6 +607,12 @@
   },
   {
     "url": "https://substack.com/@agenticliving/notes/c-98698380",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
+    "url": "https://substack.com/profile/33064385-james/note/c-98696851",
     "like": "FALSE",
     "restack": "FALSE",
     "likenote": "TRUE"
@@ -342,6 +630,18 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://www.waltbismarck.com/p/things-i-like-about-midwesterners",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://libertyplus.substack.com/p/power",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://sternshiplog.substack.com/p/the-time-i-met-the-old-man-from-the",
     "like": "TRUE",
     "restack": "TRUE",
@@ -356,6 +656,12 @@
   {
     "url": "https://substack.com/@culturalfuturist/notes/c-98276382",
     "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://www.waltbismarck.com/p/white-like-me",
+    "like": "TRUE",
     "restack": "FALSE",
     "likenote": "FALSE"
   },
@@ -384,9 +690,21 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://libertyplus.substack.com/p/the-tyranny-of-togetherism",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://maximumdrive.substack.com/p/death-by-dogma",
     "like": "TRUE",
     "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://swiftenterprises.substack.com/p/death-by-dollar-general",
+    "like": "TRUE",
+    "restack": "TRUE",
     "likenote": "FALSE"
   },
   {
@@ -394,6 +712,12 @@
     "like": "FALSE",
     "restack": "FALSE",
     "likenote": "TRUE"
+  },
+  {
+    "url": "https://libertyplus.substack.com/p/libertarians-and-the-moral-foundations",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
   },
   {
     "url": "https://blissproductions.substack.com/p/post-conservatism",
@@ -406,6 +730,24 @@
     "like": "TRUE",
     "restack": "FALSE",
     "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/profile/33064385-james-dowler/note/c-97898912",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
+    "url": "https://pontifex.substack.com/p/master-morality-and-slave-morality",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/profile/33064385-james-dowler/note/c-97880488",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
   },
   {
     "url": "https://undergrounddesigns.substack.com/p/the-legend-of-q-anon",
@@ -456,7 +798,25 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://deadendconsultant.substack.com/p/notes-from-the-practice-february",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://substack.com/@bingobobbins/notes/c-97384835",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
+    "url": "https://bradalonius.substack.com/p/how-to-lose-wars-and-alienate-allies",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/@nof11/note/c-97450848",
     "like": "FALSE",
     "restack": "FALSE",
     "likenote": "TRUE"
@@ -471,6 +831,12 @@
     "url": "https://peteribanks.substack.com/p/the-18th-century-a-tale-of-rot-and",
     "like": "TRUE",
     "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://libertyplus.substack.com/p/critique-of-the-national-justice",
+    "like": "TRUE",
+    "restack": "TRUE",
     "likenote": "FALSE"
   },
   {
@@ -492,10 +858,40 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://www.waltbismarck.com/p/white-knight",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://bradalonius.substack.com/p/bobbinsville-002-is-canada-cooked",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://libertyplus.substack.com/p/pureblood-serbblood",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/@nof11/note/c-97127600",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
     "url": "https://substack.com/@agenticliving/notes/c-97132200",
     "like": "FALSE",
     "restack": "FALSE",
     "likenote": "TRUE"
+  },
+  {
+    "url": "https://pontifex.substack.com/p/usa-votes-for-putin-and-evil",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
   },
   {
     "url": "https://dogandponyshow.substack.com/p/extra-extra-invite-your-friends-members",
@@ -510,6 +906,12 @@
     "likenote": "TRUE"
   },
   {
+    "url": "https://simonlaird.substack.com/p/israelpalestine-is-about-race",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://peteribanks.substack.com/p/why-i-love-thomas-carlyle",
     "like": "TRUE",
     "restack": "FALSE",
@@ -518,6 +920,18 @@
   {
     "url": "https://dogandponyshow.substack.com/p/dissent09elite-schizo-journalism",
     "like": "FALSE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://www.professoraxelrod.com/p/dr-seusss-political-cartoons",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://libertyplus.substack.com/p/action",
+    "like": "TRUE",
     "restack": "TRUE",
     "likenote": "FALSE"
   },
@@ -538,6 +952,12 @@
     "like": "FALSE",
     "restack": "FALSE",
     "likenote": "TRUE"
+  },
+  {
+    "url": "https://www.waltbismarck.com/p/tortuga-testimonials",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
   },
   {
     "url": "https://sternshiplog.substack.com/p/endocrine-disruptor-chemical-pollution",
@@ -576,7 +996,25 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://substack.com/home/post/p-157430359",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://swiftenterprises.substack.com/p/how-to-defeat-hollywood",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://dogandponyshow.substack.com/p/the-odyssey-of-homer-book-i",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://booksandnotes.substack.com/p/paul-halmos-naive-set-theory-d87",
     "like": "TRUE",
     "restack": "FALSE",
     "likenote": "FALSE"
@@ -624,6 +1062,12 @@
     "likenote": "TRUE"
   },
   {
+    "url": "https://libertyplus.substack.com/p/why-liberty",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://substack.com/@philrot/notes/c-94158125",
     "like": "TRUE",
     "restack": "TRUE",
@@ -642,6 +1086,12 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://www.professoraxelrod.com/p/gotta-go-gotta-go-fast",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://backcountrypsych.substack.com/p/the-most-hypocritical-social-scientist",
     "like": "TRUE",
     "restack": "TRUE",
@@ -651,6 +1101,12 @@
     "url": "https://backcountrypsych.substack.com/p/pious-fraud-or-the-moral-license",
     "like": "FALSE",
     "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/home/post/p-157850108",
+    "like": "TRUE",
+    "restack": "FALSE",
     "likenote": "FALSE"
   },
   {
@@ -669,6 +1125,24 @@
     "url": "https://peteribanks.substack.com/p/a-yarvin-sized-fork-in-the-road",
     "like": "TRUE",
     "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://pontifex.substack.com/p/european-defence-policy-how-europe",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://bradalonius.substack.com/p/saving-social-security-by-killing",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://libertyplus.substack.com/p/randian-nationalism",
+    "like": "TRUE",
+    "restack": "TRUE",
     "likenote": "FALSE"
   },
   {
@@ -726,7 +1200,25 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://yuribezmenov.substack.com/p/trump-derangement-substack-profit-analysis",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://egirladdict.substack.com/p/getting-violated-by-a-chinese-grad",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://voyagerslog.substack.com/p/the-congo-a-gentle-introduction",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://www.professoraxelrod.com/p/hard-men-create-good-times",
     "like": "TRUE",
     "restack": "FALSE",
     "likenote": "FALSE"
@@ -765,6 +1257,18 @@
     "url": "https://russellwalter.substack.com/p/diversity-is-our-strength",
     "like": "TRUE",
     "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://swiftenterprises.substack.com/p/digital-involution",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://www.waltbismarck.com/p/my-plan-to-conquer-substack",
+    "like": "TRUE",
+    "restack": "TRUE",
     "likenote": "FALSE"
   }
 ]
