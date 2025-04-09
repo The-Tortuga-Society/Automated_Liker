@@ -30,6 +30,12 @@
     "likenote": "TRUE"
   },
   {
+    "url": "https://pontifex.substack.com/p/tiktok-is-banned-in-china",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://simonlaird.substack.com/p/its-disgusting-is-a-perfectly-fine",
     "like": "TRUE",
     "restack": "FALSE",
@@ -102,9 +108,21 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://www.waltbismarck.com/p/women-do-have-agency/",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
     "url": "https://libertyplus.substack.com/p/montys-mark",
     "like": "TRUE",
     "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://swiftenterprises.substack.com/p/for-a-future-worth-living-in",
+    "like": "FALSE",
+    "restack": "FALSE",
     "likenote": "FALSE"
   },
   {
@@ -438,6 +456,12 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://substack.com/@sternusashellus/notes/c-102738919",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
     "url": "https://culturalfuturist.substack.com/p/culture-and-couture-brief-4-layla",
     "like": "FALSE",
     "restack": "TRUE",
@@ -468,6 +492,12 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://substack.com/@dogandponyshow/notes/c-102404373",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
     "url": "https://pontifex.substack.com/p/if-the-usa-loses-europe",
     "like": "TRUE",
     "restack": "FALSE",
@@ -477,6 +507,12 @@
     "url": "https://cyberpunkbully.substack.com/p/the-simple-way-that-any-normal-person",
     "like": "TRUE",
     "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://sternshiplog.substack.com/p/depths-of-depravity",
+    "like": "TRUE",
+    "restack": "TRUE",
     "likenote": "FALSE"
   },
   {
@@ -795,7 +831,7 @@
     "url": "https://substack.com/@centaurwritesatyr/notes/c-100137294",
     "like": "FALSE",
     "restack": "TRUE",
-    "likenote": "FALSE"
+    "likenote": "TRUE"
   },
   {
     "url": "https://undergrounddesigns.substack.com/p/trailer-announcement-pandemonia-a",
@@ -814,6 +850,24 @@
     "like": "FALSE",
     "restack": "TRUE",
     "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/@jshardy/notes/c-99603874",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
+    "url": "https://substack.com/@jshardy/notes/c-99621656",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
+    "url": "https://substack.com/@sternusashellus/notes/c-99881936",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
   },
   {
     "url": "https://substack.com/@dogandponyshow/notes/c-100020759",
@@ -865,6 +919,12 @@
   },
   {
     "url": "https://substack.com/@nof11/note/c-99528656",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
+    "url": "https://substack.com/@pontimin/notes/c-98695822",
     "like": "FALSE",
     "restack": "FALSE",
     "likenote": "TRUE"
@@ -940,6 +1000,12 @@
     "like": "FALSE",
     "restack": "FALSE",
     "likenote": "TRUE"
+  },
+  {
+    "url": "https://undergrounddesigns.substack.com/p/post-like-one-of-the-great-ones",
+    "like": "FALSE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
   },
   {
     "url": "https://dogandponyshow.substack.com/p/the-aping-american-taylors-version",
@@ -1068,6 +1134,12 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://www.professoraxelrod.com/p/back-on-the-chain-gang",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://libertyplus.substack.com/p/contra-third-positionism",
     "like": "TRUE",
     "restack": "TRUE",
@@ -1110,9 +1182,21 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://substack.com/@mdrive/notes/p-158211606",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://libertyplus.substack.com/p/power",
     "like": "TRUE",
     "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://undergrounddesigns.substack.com/p/creative-philosophy-for-heads",
+    "like": "TRUE",
+    "restack": "FALSE",
     "likenote": "FALSE"
   },
   {
@@ -1129,6 +1213,12 @@
   },
   {
     "url": "https://substack.com/@culturalfuturist/notes/c-98276382",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/@sternusashellus/notes/c-98284439",
     "like": "FALSE",
     "restack": "FALSE",
     "likenote": "FALSE"
@@ -1154,6 +1244,12 @@
   {
     "url": "https://futuristletters.substack.com/p/rob-the-ubermensch",
     "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/@worstboyfriendever/notes/c-97995915",
+    "like": "FALSE",
     "restack": "FALSE",
     "likenote": "FALSE"
   },
@@ -1404,6 +1500,12 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://substack.com/@blissproductions/notes/c-96942582",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "TRUE"
+  },
+  {
     "url": "https://libertyplus.substack.com/p/action",
     "like": "TRUE",
     "restack": "TRUE",
@@ -1500,6 +1602,12 @@
     "likenote": "FALSE"
   },
   {
+    "url": "https://www.waltbismarck.com/p/unban-h1b-pajeet",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://backcountrypsych.substack.com/p/fragile-masculinity-in-adolescent",
     "like": "TRUE",
     "restack": "TRUE",
@@ -1585,6 +1693,12 @@
   },
   {
     "url": "https://substack.com/@blissproductions/notes/p-157945524",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://substack.com/@centaurwritesatyr/notes/c-96396075",
     "like": "TRUE",
     "restack": "FALSE",
     "likenote": "FALSE"
@@ -1710,15 +1824,15 @@
     "likenote": "FALSE"
   },
   {
-    "url": "https://undergrounddesigns.substack.com/p/robo-christ",
-    "like": "TRUE",
+    "url": "https://substack.com/@ashalogos/notes/c-96007239",
+    "like": "FALSE",
     "restack": "FALSE",
     "likenote": "FALSE"
   },
   {
-    "url": "https://undergrounddesigns.substack.com/p/post-like-one-of-the-great-ones",
-    "like": "FALSE",
-    "restack": "TRUE",
+    "url": "https://undergrounddesigns.substack.com/p/robo-christ",
+    "like": "TRUE",
+    "restack": "FALSE",
     "likenote": "FALSE"
   },
   {
@@ -1729,6 +1843,18 @@
   },
   {
     "url": "https://russellwalter.substack.com/p/diversity-is-our-strength",
+    "like": "TRUE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://www.waltbismarck.com/p/the-tortuga-society-gets-serious",
+    "like": "FALSE",
+    "restack": "FALSE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://www.waltbismarck.com/p/9367bed7-2ae5-451a-9eff-9b757827fd45",
     "like": "TRUE",
     "restack": "FALSE",
     "likenote": "FALSE"
