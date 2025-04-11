@@ -14,7 +14,7 @@ function autoLikeArchives() {
 							   
 						} else {
 							// go ahead and like this one with delay
-							   actionDelay+=650 + 4000*Math.random();
+							   actionDelay+=430 + 3000*Math.random();
 							   console.log('Not already liked');
 							   setTimeout(() => {
 							   console.log(el);
