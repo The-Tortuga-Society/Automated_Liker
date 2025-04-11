@@ -1,7 +1,7 @@
 
 function autoLikeArchives() {
     // Wait a bit for the page to fully load
-	var actionDelay = 2000;
+	var actionDelay = 2000 + 4000*Math.random();
     setTimeout(() => {
         // Find the like button - Substack typically uses a heart icon
 
@@ -14,7 +14,7 @@ function autoLikeArchives() {
 							   
 						} else {
 							// go ahead and like this one with delay
-							   actionDelay+=650;
+							   actionDelay+=650 + 4000*Math.random();
 							   console.log('Not already liked');
 							   setTimeout(() => {
 							   console.log(el);
