@@ -1,5 +1,11 @@
 [
   {
+    "url": "https://open.substack.com/pub/dogandponyshow/p/misogypop",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://substack.com/@blissproductions/notes/c-108512373",
     "like": "FALSE",
     "restack": "FALSE",
@@ -13,12 +19,6 @@
   },
   {
     "url": "https://www.professoraxelrod.com/p/terminally-online-losers",
-    "like": "TRUE",
-    "restack": "FALSE",
-    "likenote": "FALSE"
-  },
-  {
-    "url": "https://open.substack.com/pub/dogandponyshow/p/misogypop",
     "like": "TRUE",
     "restack": "FALSE",
     "likenote": "FALSE"
