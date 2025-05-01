@@ -7,8 +7,14 @@
   },
   {
     "url": "https://swiftenterprises.com/p/great-pursuits-electronics",
-    "like": "TRUE",
+    "like": "FALSE",
     "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
+    "url": "https://swiftenterprises.substack.com/p/great-pursuits-electronics",
+    "like": "TRUE",
+    "restack": "FALSE",
     "likenote": "FALSE"
   },
   {
