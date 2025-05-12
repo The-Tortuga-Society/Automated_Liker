@@ -1,5 +1,11 @@
 [
   {
+    "url": "https://www.waltbismarck.com/p/my-plan-to-conquer-substack",
+    "like": "TRUE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://booksandnotes.substack.com/p/the-turing-machine",
     "like": "TRUE",
     "restack": "FALSE",
@@ -2443,12 +2449,6 @@
   },
   {
     "url": "https://swiftenterprises.substack.com/p/digital-involution",
-    "like": "TRUE",
-    "restack": "TRUE",
-    "likenote": "FALSE"
-  },
-  {
-    "url": "https://www.waltbismarck.com/p/my-plan-to-conquer-substack",
     "like": "TRUE",
     "restack": "TRUE",
     "likenote": "FALSE"
