@@ -1,5 +1,11 @@
 [
   {
+    "url": "https://undergrounddesigns.substack.com/p/post-like-one-of-the-great-ones",
+    "like": "FALSE",
+    "restack": "TRUE",
+    "likenote": "FALSE"
+  },
+  {
     "url": "https://swiftenterprises.substack.com/p/century-of-chaos",
     "like": "TRUE",
     "restack": "TRUE",
@@ -2061,12 +2067,6 @@
     "url": "https://pontifex.substack.com/p/will-trump-or-xi-rule-the-universe",
     "like": "TRUE",
     "restack": "FALSE",
-    "likenote": "FALSE"
-  },
-  {
-    "url": "https://undergrounddesigns.substack.com/p/post-like-one-of-the-great-ones",
-    "like": "FALSE",
-    "restack": "TRUE",
     "likenote": "FALSE"
   },
   {
